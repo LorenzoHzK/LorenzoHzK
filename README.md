@@ -1,4 +1,4 @@
- ## Aoba! Quem é o Lorenzo? ☜(ﾟヮﾟ☜)
+ ## 👋🏻 Aoba! Quem é o Lorenzo?
  
  Meu nome é Matheus Lorenzo Siqueira, tenho 16 anos e sou apaixonado por tecnologia e no meio dessa tecnologia eu me achei na programação, a primeira vez que eu vi alguém programando não entendi nada, eu fiquei de boca aberta achando que era uma coisa muito difícil, mas depois de um tempo olhando algumas coisas na internet, vi que não era um negócio tão dificil, comecei a me aventeurar vendo algumas videos aulas no YouTube, comecei programndo coisas simples no <b>C#</b>, mas com o tempo vi que era uma coisa que as pessoas não utilizavam tanto, então fui me aventurar em outras linguagens como <b> HTML </b> e <b> CSS </b>, ai sim eu vi o que era realmente programar. <b> <i> Alí foi o início do meu sonho por programação. </i> </b>
  
