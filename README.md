@@ -27,3 +27,5 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+
+![Não tem :(](https://i.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.webp)
