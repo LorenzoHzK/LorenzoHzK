@@ -20,7 +20,6 @@
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<br>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=LorenzoHzK&show_icons=true&theme=highcontrast"
