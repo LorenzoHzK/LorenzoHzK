@@ -13,12 +13,11 @@
 <br>
 <br>
 
-### <span style="color🟦">Links para CONTATO</span>
+<span>Links para CONTATO</span>
 <div>
   <a href = "mailto:matheuslorenzosiqueira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-l-siqueira-19a847256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<br>
 <br>
 
 
