@@ -18,6 +18,9 @@
   <a href="https://www.linkedin.com/in/matheus-l-siqueira-19a847256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=LorenzoHzK&show_icons=true&theme=highcontrast"
@@ -29,11 +32,3 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
-
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
