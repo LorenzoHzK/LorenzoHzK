@@ -8,7 +8,7 @@
  Meu nome é Matheus Lorenzo Siqueira, tenho 16 anos e sou apaixonado por tecnologia e no meio dessa tecnologia eu me achei na programação, a primeira vez que eu vi alguém programando não entendi nada, eu fiquei de boca aberta achando que era uma coisa muito difícil, mas depois de um tempo olhando algumas coisas na internet, vi que realmente era um negócio dificil, mas mesmo assim comecei a me aventeurar vendo algumas videos aulas no YouTube, comecei programndo coisas simples no <b>C#</b>, mas com o tempo vi que era uma coisa que eu não sentia tanta vontade em programar, então fui me aventurar em outras linguagens como <b> HTML </b> e <b> CSS </b>, então montei meu primeiro site, simples mas aquilo me deixou muito orgulhoso, ai sim eu vi o que era realmente programar. <b> <i> Alí foi o início do meu sonho por programação. </i> </b>
  
 
-## 🛠 &nbsp;Linguagens
+## 🛠 &nbsp;Programming languages
  <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,19 +17,13 @@
 </div>
 <br>
 
-<h3>Links para CONTATO</h3>
+<h3>Links To Contact</h3>
 <div>
   <a href = "mailto:matheuslorenzosiqueira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-l-siqueira-19a847256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=LorenzoHzK&show_icons=true&theme=highcontrast"
-  media="(prefers-color-scheme: dark)"
-/>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
