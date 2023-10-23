@@ -3,7 +3,7 @@
  Meu nome é Matheus Lorenzo Siqueira, tenho 16 anos e sou apaixonado por tecnologia e no meio dessa tecnologia eu me achei na programação, a primeira vez que eu vi alguém programando não entendi nada, eu fiquei de boca aberta achando que era uma coisa muito difícil, mas depois de um tempo olhando algumas coisas na internet, vi que realmente era um negócio dificil, mas mesmo assim comecei a me aventeurar vendo algumas videos aulas no YouTube, comecei programndo coisas simples no <b>C#</b>, mas com o tempo vi que era uma coisa que eu não sentia tanta vontade em programar, então fui me aventurar em outras linguagens como <b> HTML </b> e <b> CSS </b>, então montei meu primeiro site, simples mas aquilo me deixou muito orgulhoso, ai sim eu vi o que era realmente programar. <b> <i> Alí foi o início do meu sonho por programação. </i> </b>
  
 
-<h3> Algumas linguagens que eu sei: </h3>
+## 🛠 &nbsp;Linguagens
  <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
