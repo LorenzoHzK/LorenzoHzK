@@ -17,7 +17,7 @@
 <P align="justify">
  Meu nome é Matheus Lorenzo Siqueira, tenho 16 anos e sou apaixonado por tecnologia e no meio dessa tecnologia eu me achei na programação, a primeira vez que eu vi alguém programando não entendi nada, eu fiquei de boca aberta achando que era uma coisa muito difícil, mas depois de um tempo olhando algumas coisas na internet, vi que realmente era um negócio dificil, mas mesmo assim comecei a me aventeurar vendo algumas videos aulas no YouTube, comecei programndo coisas simples no <b>C#</b>, mas com o tempo vi que era uma coisa que eu não sentia tanta vontade em programar, então fui me aventurar em outras linguagens como <b> HTML </b> e <b> CSS </b>, então montei meu primeiro site, simples mas aquilo me deixou muito orgulhoso, ai sim eu vi o que era realmente programar. <b> <i> Alí foi o início do meu sonho por programação. </i> </b>
 </P>
- 
+
 
 ## 🛠 &nbsp;Programming languages
  <div style="display: inline_block">
@@ -28,8 +28,17 @@
 </div>
 <br>
 
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
 <h3>Links To Contact</h3>
 <div>
   <a href = "mailto:matheuslorenzosiqueira1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-l-siqueira-19a847256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
