@@ -3,45 +3,57 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Lorenzo+Siqueira;I'm+17+years+old;I+from+Brasil,;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
- ## 👋🏻 Hello! Who is Lorenzo?
+## 👋🏻 Hello! Who is Lorenzo?
 
-<h2>English About</h2>
-<P align="justify">
- My name is Matheus Lorenzo Siqueira, I'm 16 years old and I'm passionate about technology and in the midst of this technology I succeeded in programming, the first time I saw someone programming I didn't understand anything, I was left open-mouthed thinking it was something very difficult, but After a while looking at some things on the internet, I saw that it really was a difficult business, but even so I started to venture out by watching some video lessons on YouTube, I started programming simple things in <strong>C#</strong>, but with the Over time I realized that it was something that I didn't feel so passionate about programming, so I ventured into other languages ​​such as <strong> HTML </strong> and <strong> CSS </strong>, so I set up my first website, simple but me It made me very proud, and then I saw what programming really was. <strong> <i> That was the beginning of my dream of programming
-</P>
+<h2>About Me (English)</h2>
+<p align="justify">
+My name is Matheus Lorenzo Siqueira, I'm 17 years old and I'm passionate about technology. Initially, programming seemed very difficult to me, but after exploring some resources online and watching YouTube tutorials, I started learning programming. I began with simple projects in <strong>C#</strong>, but over time, I discovered a greater passion for web development. I ventured into <strong>HTML</strong> and <strong>CSS</strong> and created my first website, which made me very proud. This experience marked the beginning of my journey in programming.</p>
 
-<h2>Poruguês Sobre</h2>
-<P align="justify">
- Meu nome é Matheus Lorenzo Siqueira, tenho 16 anos e sou apaixonado por tecnologia e no meio dessa tecnologia eu me achei na programação, a primeira vez que eu vi alguém programando não entendi nada, eu fiquei de boca aberta achando que era uma coisa muito difícil, mas depois de um tempo olhando algumas coisas na internet, vi que realmente era um negócio dificil, mas mesmo assim comecei a me aventeurar vendo algumas videos aulas no YouTube, comecei programndo coisas simples no <strong>C#</strong>, mas com o tempo vi que era uma coisa que eu não sentia tanta vontade em programar, então fui me aventurar em outras linguagens como <strong> HTML </strong> e <strong> CSS </strong>, então montei meu primeiro site, simples mas aquilo me deixou muito orgulhoso, ai sim eu vi o que era realmente programar. <strong> <i> Alí foi o início do meu sonho por programação. </i> </strong>
-</P>
+<h2>Sobre Mim (Português)</h2>
+<p align="justify">
+Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnologia. No início, a programação parecia muito difícil para mim, mas após explorar alguns recursos online e assistir a tutoriais no YouTube, comecei a aprender programação. Comecei com projetos simples em <strong>C#</strong>, mas com o tempo, descobri uma paixão maior pelo desenvolvimento web. Explorei <strong>HTML</strong> e <strong>CSS</strong> e criei meu primeiro site, o que me deixou muito orgulhoso. Essa experiência marcou o início da minha jornada na programação.</p>
 
-
-## 🛠 &nbsp;Programming languages
- <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+## 🛠 &nbsp;Programming Languages
+<div style="display: inline_block">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" title="C#">
+    <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </a>
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </a>
+  <a href="https://www.php.net/" target="_blank" title="PHP">
+    <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  </a>
 </div>
 <br>
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 
-<h3>Links To Contact</h3>
+<h3>Contact Links</h3>
 <div>
-  <a href = "mailto:matheuslorenzosiqueira@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+  <a href="mailto:matheuslorenzosiqueira@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank">
+  </a>
   <a href="https://www.linkedin.com/in/matheus-lorenzo-siqueira-44882430b/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>   
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
+  </a>   
 </div>
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LorenzoHzK&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LorenzoHzK&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Lorenzo Siqueira's GitHub stats" /> 
 </div>
 
 <br>
