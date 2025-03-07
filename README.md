@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 <h1> Hello! Nice to meet you! </h1>
 <hr>
 
