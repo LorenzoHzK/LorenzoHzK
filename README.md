@@ -17,7 +17,7 @@ Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnolo
 
 ## 🛠 &nbsp;Programming Languages
 <div style="display: inline_block">
-  <a >
+  <a>
     <img alt="HTML" height="30" width="40" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
 
@@ -34,7 +34,7 @@ Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnolo
   </a>
 
   <a>
-    <img alt="PHP"  width="60" height="40" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="PHP"  width="70" height="30" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   </a>
 
 </div>
