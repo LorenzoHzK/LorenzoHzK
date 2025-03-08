@@ -42,15 +42,11 @@ Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnolo
   </a>
 
   <a>
-    <img alt="Docker" height="30" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=whitee">
+    <img alt="Laravel" height="30" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=whitee">
   </a>
   
    <a>
-    <img alt="Docker" height="30" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-
-  <a>
-    <img alt="Docker" height="30" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="MySql" height="30" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
 
 </div>
