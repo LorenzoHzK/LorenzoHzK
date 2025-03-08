@@ -26,7 +26,7 @@ Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnolo
   </a>
   
   <a>
-    <img alt="JavaScript" width="80" height="30" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
 
   <a>
