@@ -54,8 +54,9 @@ Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnolo
 
 <h2>Contact Links</h2>
 <div>
-  <p>📜 You need send a email? <a href="mailto:matheuslorenzosiqueira@gmail.com"></a>
+  <p>📜 You need send a email? <a href="mailto:matheuslorenzosiqueira@gmail.com">matheuslorenzosiqueira@gmail.com</a>
 
+<br>
   <a href="https://www.linkedin.com/in/matheus-lorenzo-siqueira-44882430b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
   </a>   
