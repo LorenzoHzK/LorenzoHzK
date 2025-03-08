@@ -28,13 +28,13 @@ Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnolo
   <a>
     <img alt="JavaScript" height="30" width="40" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
-  
+
   <a>
-    <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img alt="Python" height="30" width="40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
 
   <a>
-    <img alt="PHP" height="30" width="40" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    <img alt="PHP" height="50" width="60" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   </a>
 
 </div>
