@@ -61,13 +61,8 @@ Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnolo
 
 ## 💻 GitHub
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LorenzoHzK&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Lorenzo Siqueira's GitHub stats" /> 
-  
+<div>  
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LorenzoHzK&show_icons=true&theme=radical)
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=SEU-USUARIO&theme=radical)
-
-  ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=SLorenzoHzK&theme=radical)
-
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=LorenzoHzK&theme=radical)
+  ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=LorenzoHzK&theme=radical)
 </div>
