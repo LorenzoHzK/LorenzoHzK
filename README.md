@@ -5,11 +5,11 @@
 
 <h2>About Me (English)</h2>
 <p align="justify">
-My name is Matheus Lorenzo Siqueira, I'm 17 years old and I'm passionate about technology. Initially, programming seemed very difficult to me, but after exploring some resources online and watching YouTube tutorials, I started learning programming. I began with simple projects in <strong>C#</strong>, but over time, I discovered a greater passion for web development. I ventured into <strong>HTML</strong> and <strong>CSS</strong> and created my first website, which made me very proud. This experience marked the beginning of my journey in programming.</p>
+My name is Matheus Lorenzo Siqueira, I’m 18 years old, and I’m currently studying backend development. I started with C# but soon became more interested in backend. Now, I’m learning JavaScript, Python, and PHP, focusing on building APIs, working with databases, and server-side logic. I’m always looking for new challenges to improve my skills.</p>
 
 <h2>Sobre Mim (Português)</h2>
 <p align="justify">
-Meu nome é Matheus Lorenzo Siqueira, tenho 17 anos e sou apaixonado por tecnologia. No início, a programação parecia muito difícil para mim, mas após explorar alguns recursos online e assistir a tutoriais no YouTube, comecei a aprender programação. Comecei com projetos simples em <strong>C#</strong>, mas com o tempo, descobri uma paixão maior pelo desenvolvimento web. Explorei <strong>HTML</strong> e <strong>CSS</strong> e criei meu primeiro site, o que me deixou muito orgulhoso. Essa experiência marcou o início da minha jornada na programação.</p>
+Meu nome é Matheus Lorenzo Siqueira, tenho 18 anos e atualmente estou estudando desenvolvimento backend. Comecei com C#, mas logo me interessei mais pelo backend. Hoje, estou aprendendo JavaScript, Python e PHP, com foco em construir APIs, trabalhar com bancos de dados e lógica de servidor. Estou sempre em busca de novos desafios para aprimorar minhas habilidades.</p>
 
 ## 🛠 &nbsp;Programming Languages
 <div style="display: inline_block">
