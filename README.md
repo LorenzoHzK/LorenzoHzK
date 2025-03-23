@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=25&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Matheus+Lorenzo+Siqueira;A+17-year-old+tech+enthusiast;Passionate+about+coding+and+innovation;Welcome+to+my+GitHub!+🚀&font=Press+Start+2P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=25&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Matheus+Lorenzo+Siqueira;tech+enthusiast;Passionate+about+coding+and+innovation;Welcome+to+my+GitHub!+🚀&font=Press+Start+2P)](https://git.io/typing-svg)
 
  
 ## 👋🏻 Hello! Who is Lorenzo?
